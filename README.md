@@ -21,7 +21,7 @@ It combines network discovery, Active Directory enumeration, attack-path visuali
 * 🎯 **MITRE ATT&CK** — Technique and tactic mapping
 * 📋 **Findings Management** — Finding lifecycle and remediation tracking
 * 📡 **Real-Time Telemetry** — Task states and SSE output streaming
-* 🧪 **Lab Health Center** — Verify required security tools and dependencies
+* 🧪 **Lab Health Center** — Security-tool and dependency verification
 * 📊 **Reporting** — Structured penetration-testing reports
 
 ## 🏗️ Architecture
@@ -51,12 +51,12 @@ It combines network discovery, Active Directory enumeration, attack-path visuali
 
 ## 🔬 REAL LAB / DEMO
 
-RedForge clearly separates:
+RedForge separates operational data into two modes:
 
 * **REAL LAB** — genuine authorized network/tool execution
-* **DEMO / SIMULATION** — synthetic training data with no live interaction
+* **DEMO / SIMULATION** — synthetic training data without live interaction
 
-This prevents simulated results from being presented as real security findings.
+This distinction helps prevent simulated results from being presented as real security findings.
 
 ## 🛠️ Tech Stack
 
@@ -64,13 +64,13 @@ This prevents simulated results from being presented as real security findings.
 **Backend:** Node.js, Express.js
 **Protocols:** LDAP, SMB, Kerberos
 **Telemetry:** REST API, SSE
-**Security:** Scope Guard, SHA-256, audit logging
+**Security:** Scope Guard, SHA-256, Audit Logging
 **Tooling:** Nmap, Impacket, SMB utilities
 **Framework:** MITRE ATT&CK
 
-## 🚧 Status
+## 🚧 Development Status
 
-RedForge is actively being developed from a simulated prototype toward a **real, scope-controlled Active Directory security laboratory**.
+RedForge is being developed from a simulated prototype toward a **real, scope-controlled Active Directory security laboratory**.
 
 ### Roadmap
 
@@ -89,13 +89,10 @@ RedForge is actively being developed from a simulated prototype toward a **real,
 
 Use RedForge only against systems you own or have explicit authorization to assess.
 
+## 📄 License
+
+RedForge is released under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for the full license text.
+
 **RedForge — Discover. Assess. Validate. Report.**
-📜 License
-
-Choose a license appropriate for your intended distribution model.
-
-For example:
-
-MIT License
-
-or a more restrictive license if you want to limit redistribution or commercial use.
