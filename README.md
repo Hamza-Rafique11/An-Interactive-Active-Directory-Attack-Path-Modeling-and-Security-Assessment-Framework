@@ -1,6 +1,6 @@
-# RedForge — Active Directory Red-Team Laboratory
+# An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework — Active Directory Red-Team Laboratory
 
-**RedForge** is a modular Active Directory security laboratory for **authorized penetration testing, adversary emulation, security research, and cybersecurity education**.
+**An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework** is a modular Active Directory security laboratory for **authorized penetration testing, adversary emulation, security research, and cybersecurity education**.
 
 It combines network discovery, Active Directory enumeration, attack-path visualization, security validation, evidence collection, MITRE ATT&CK mapping, and reporting in a single platform.
 
@@ -70,7 +70,7 @@ This distinction helps prevent simulated results from being presented as real se
 
 ## 🚧 Development Status
 
-RedForge is being developed from a simulated prototype toward a **real, scope-controlled Active Directory security laboratory**.
+An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework is being developed from a simulated prototype toward a **real, scope-controlled Active Directory security laboratory**.
 
 ### Roadmap
 
@@ -87,12 +87,12 @@ RedForge is being developed from a simulated prototype toward a **real, scope-co
 
 ## ⚠️ Responsible Use
 
-Use RedForge only against systems you own or have explicit authorization to assess.
+Use An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework only against systems you own or have explicit authorization to assess.
 
 ## 📄 License
 
-RedForge is released under the **MIT License**.
+An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework is released under the **MIT License**.
 
 See the [`LICENSE`](LICENSE) file for the full license text.
 
-**RedForge — Discover. Assess. Validate. Report.**
+**An Interactive Active Directory Attack-Path Modeling and Security Assessment Framework — Discover. Assess. Validate. Report.**
