@@ -90,3 +90,12 @@ RedForge is actively being developed from a simulated prototype toward a **real,
 Use RedForge only against systems you own or have explicit authorization to assess.
 
 **RedForge — Discover. Assess. Validate. Report.**
+📜 License
+
+Choose a license appropriate for your intended distribution model.
+
+For example:
+
+MIT License
+
+or a more restrictive license if you want to limit redistribution or commercial use.
