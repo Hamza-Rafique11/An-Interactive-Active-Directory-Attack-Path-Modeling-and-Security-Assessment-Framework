@@ -1,0 +1,6 @@
+{
+  "name": "ADStrike",
+  "description": "Enterprise Active Directory Red-Team Laboratory & Penetration Testing Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
